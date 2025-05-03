@@ -1,0 +1,8 @@
+{
+  "signatures": [
+    { "name": "EICAR Test File", "hash": "275a021bbfb6489e54d471899f7db9d1663fc695ec2fe2a2c4538aabf651fd0f" },
+    { "name": "SHA256 Virus", "hash": "d949d0db33b5024605e93420c909d6846eef608c6b187c59e4f0aa83a112a012" },
+	{ "name": "SHA256 Virus 2", "hash": "b7ca02e11a3aa108aea3335781c7873543b9d5156d7537e534c8a6850dd6c469" },
+	
+  ]
+}
